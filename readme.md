@@ -35,7 +35,7 @@ You can find me here too 👇
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kau%C3%AA-mezzomo-468247272" target="_blank">
+<a href="https://www.linkedin.com/in/mezzomokaue" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
