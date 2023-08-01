@@ -1,5 +1,7 @@
 ## Hello, there ✌
 
+<img src="https://komarev.com/ghpvc/?username=mezzomokaue&color=yellow" alt="Profile views" /> 
+
 My name is Kauê and I am a front-end developer from Quilombo, Santa Catarina. I like programming and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
 
@@ -23,3 +25,19 @@ My name is Kauê and I am a front-end developer from Quilombo, Santa Catarina. I
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
+
+<br/>
+
+You can find me here too 👇
+
+<div>
+<a href="https://instagram.com/mezzomo_kaue" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kau%C3%AA-mezzomo-468247272" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
+</div>
+<br>
