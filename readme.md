@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mezzomokaue&color=yellow" alt="Profile views" /> 
 
-My name is Kauê and I am a front-end developer from Quilombo, Santa Catarina. I like programming and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
+My name's Kauê and I'm a front-end developer from Quilombo, Santa Catarina. I like programming and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
 
 
