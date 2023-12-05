@@ -15,7 +15,7 @@ My name's Kauê and I'm a front-end developer from Quilombo, Santa Catarina. I l
 You can find me here too 👇
 
 <div>
-<a href="https://instagram.com/mezzomo_kaue" target="_blank">
+<a href="https://instagram.com/k.mezzomo" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
